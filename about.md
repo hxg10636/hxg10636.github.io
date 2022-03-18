@@ -7,7 +7,7 @@ permalink: about
 
 ## Profile Image
 
-This little kid wants to be a data analyst in the future
+This is a photo I took in China when I was very young
 <img class="mx-auto w-1/2" src="{{site.baseurl}}/assets/img/60943297.jpg">
 
 # Abount Me
