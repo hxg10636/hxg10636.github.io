@@ -47,6 +47,6 @@ plugins:
     - jekyll-seo-tag
 
 # Let jekyll recognize new folder
-collections:
-  projects:
-    output: true
+# collections:
+#   projects:
+#     output: true

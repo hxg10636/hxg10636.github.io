@@ -19,9 +19,12 @@ Photo by <a href="https://unsplash.com/@jeremybezanger?utm_source=unsplash&utm_m
 ## Projects List
 
 <div>
-  {% for post in site.projects %}
+  {% for post in site.categories.projects %}
     <div class="py-1">
-      <h3><a href="{{site.baseurl}}{{ post.url }}">{{ post.title}}</a></h3>
+      <h3>    
+      <a href="{{site.baseurl}}{{ post.url }}">
+      {{ post.title }}
+      </a></h3>
       <div class="text-sm text-gray-400">{{post.date | date: "%B %-d, %Y"}}</div>
     </div>
   {% endfor %}
