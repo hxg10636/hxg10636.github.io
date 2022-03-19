@@ -16,7 +16,7 @@ Photo by <a href="https://unsplash.com/@wildbook?utm_source=unsplash&utm_medium=
 
 Photo by <a href="https://unsplash.com/@jeremybezanger?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jeremy Bezanger</a> on <a href="https://unsplash.com/s/photos/bitcoin?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
-## Projects Lists
+## Projects List
 
 <div>
   {% for post in site.projects %}
