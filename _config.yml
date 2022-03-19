@@ -45,3 +45,7 @@ google-analytics: G-KG6M34NH5F
 # jekyll plugins - no need to change
 plugins:
     - jekyll-seo-tag
+
+# Let jekyll recognize new folder
+collections:
+  - projects
