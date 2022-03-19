@@ -48,4 +48,5 @@ plugins:
 
 # Let jekyll recognize new folder
 collections:
-  - projects
+  projects:
+    output: true
